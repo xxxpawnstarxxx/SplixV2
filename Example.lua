@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/insanedude59/SplixUiLib/main/Main"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xxxpawnstarxxx/SplixV2/refs/heads/main/source.lua"))()
 
 local window = library:new({textsize = 13.5,font = Enum.Font.RobotoMono,name = "YES",color = Color3.fromRGB(225,58,81)})
 
